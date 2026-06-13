@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="logo" width="300"/>
+<img src="https://github.com/neuron-ops-org/.github/blob/main/res/img/neuron-ops.jpg?raw=true" alt="logo" width="300"/>
 
 <h1>NeuronOps</h1>
 
